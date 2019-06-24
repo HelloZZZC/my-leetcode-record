@@ -50,5 +50,4 @@ if __name__ == '__main__':
     node3.next = node4
     obj = Solution()
     result = obj.addTwoNumbers(node, node3)
-    print(result)
-    print('11111')
+
